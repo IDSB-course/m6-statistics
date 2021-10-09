@@ -100,6 +100,7 @@ data.frame(
 #movies dataset
 # install.packages('moderndive')
 library(moderndive)
+library(infer)
 
 movies_sample
 
