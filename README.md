@@ -13,8 +13,8 @@ Contenedor de los datasets y demás recursos que usaremos en el módulo:
 
 # :open_file_folder:[docs](https://github.com/IDSB-course/m6-statistics/master/docs)
 Documentos de texto y presentaciones:
-* **IDSB-m5-p.pdf**: Guía de ejercicios prácticos a resolver
-* **IDSB-m5-t.pdf**: Presentación teórico práctica, soporte del video del curso
+* **IDSB-m6-p.pdf**: Guía de ejercicios prácticos a resolver
+* **IDSB-m6-t.pdf**: Presentación teórico práctica, soporte del video del curso
 
 # :open_file_folder:[scripts](https://github.com/IDSB-course/m6-statistics/tree/master/scripts)
 Codigo empleado en la teoría:
